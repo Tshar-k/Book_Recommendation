@@ -1,6 +1,7 @@
 # 📚 My Book Recommender
 
 A responsive and visually appealing web application that recommends books based on user preferences. Built using **Flask**, **Python**, **HTML/CSS**, and enhanced with a modern UI, it offers users an interactive way to discover top books.
+![Screenshot 2025-04-19 224700](https://github.com/user-attachments/assets/6f9a3cbf-8de8-43c5-952a-681085054c49)
 
 ---
 
@@ -18,6 +19,7 @@ A responsive and visually appealing web application that recommends books based 
 - 📸 **Book cards with hover effects** for visual engagement
 
 ---
+![Screenshot 2025-04-19 224646](https://github.com/user-attachments/assets/10d7ae14-c0c1-4599-a3e0-8121cbe813ce)
 
 ## 🚀 Tech Stack
 

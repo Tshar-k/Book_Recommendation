@@ -9,7 +9,7 @@ books = pickle.load(open('books.pkl','rb'))
 similarity_scores = pickle.load(open('similarity_scores.pkl','rb'))
 
 app = Flask(__name__)
-# Tushar kumar is working on this file
+# Tushar kumar is working on this file and learning about github
 @app.route('/')
 def home():
     return render_template('index.html',
